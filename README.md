@@ -1,4 +1,4 @@
-# AppMonet-Bidder-Sample-App
+# AppMonet Standalone Sample App - Android
 
 ### 1.  Setup
 
